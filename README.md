@@ -30,7 +30,7 @@ To get started with a challenge:
 | Title                         | Small Description                                      | Link to Challenge                                      |
 |-------------------------------|--------------------------------------------------------|--------------------------------------------------------|
 | Hello World API               | Create a simple RESTful API that returns "Hello, World!" | [Link](./challenges/beginner/hello-world-api.md)       |
-| Simple Calculator API         | Build an API that performs basic arithmetic operations  | [Link](./challenges/beginner/simple-calculator-api.md) |
+| Calculator API         | Build an API that performs basic arithmetic operations  | [Link](./challenges/beginner/calculator-api.md) |
 | Echo API                      | Create an API that echoes back the data sent in a POST request | [Link](./challenges/beginner/echo-api.md)              |
 | Random Number Generator       | Build an API that returns a random number between 1 and 100 | [Link](./challenges/beginner/random-number-generator.md)|
 | Simple To-Do List API         | Create an API to manage a simple to-do list with CRUD operations | [Link](./challenges/beginner/simple-todo-list-api.md)  |
