@@ -33,7 +33,7 @@ To get started with a challenge:
 | Calculator API                | Build an API that performs basic arithmetic operations   | [Link](./challenges/beginner/calculator-api.md)          |
 | Echo API                      | Create an API that echoes back the data sent in a POST   | [Link](./challenges/beginner/echo-api.md)                |
 | Random Number Generator       | Build an API that returns a random number                | [Link](./challenges/beginner/random-number-generator.md) |
-| Simple To-Do List API         | Create an API to manage a simple to-do list              | [Link](./challenges/beginner/simple-todo-list-api.md)    |
+| Simple To-Do List API         | Create an API to manage a simple to-do list              | [Link](./challenges/beginner/todo-list-api.md)    |
 | Temperature Converter         | Build an API that converts temperatures                  | [Link](./challenges/beginner/temperature-converter.md)   |
 | Palindrome Checker            | Create an API that checks if a string is a palindrome    | [Link](./challenges/beginner/palindrome-checker.md)      |
 | Simple Contact Form API       | Implement an API to handle a contact form submission     | [Link](./challenges/beginner/contact-form-api.md)        |
