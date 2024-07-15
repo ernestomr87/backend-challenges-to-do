@@ -27,7 +27,7 @@ To get started with a challenge:
 
 ### 🏅 Beginner
 
-| Title                           | Description                                                                 | Link to Challenge                                        |
+| Title                           | Description                                                                 | Link                                                     |
 |---------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|
 | Hello World API                 | Develop a basic RESTful API that returns "Hello, World!"                    | [Link](./challenges/beginner/hello-world-api.md)         |
 | Calculator API                  | Create an API to perform basic arithmetic operations                        | [Link](./challenges/beginner/calculator-api.md)          |
@@ -42,7 +42,7 @@ To get started with a challenge:
 
 ### 🥉 Junior
 
-| Title                           | Description                                                                 | Link to Challenge                                        |
+| Title                           | Description                                                                 | Link                                                     |
 |---------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|
 | Blog API                        | Create an API to manage blog posts and comments                             | [Link](./challenges/junior/blog-api.md)                  |
 | User Profile API                | Build an API for managing user profiles                                     | [Link](./challenges/junior/user-profile-api.md)          |
@@ -67,7 +67,7 @@ To get started with a challenge:
 
 ### 🥈 Middle
 
-| Title                           | Description                                                               | Link to Challenge                                          |
+| Title                           | Description                                                               | Link                                                       |
 |---------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------|
 | Advanced E-commerce API         | Build a comprehensive e-commerce API with caching and queuing             | [Link](./challenges/middle/advanced-ecommerce-api.md)      |
 | Microservices - E-commerce      | Develop an e-commerce system using microservices architecture             | [Link](./challenges/middle/microservices-ecommerce-api.md) |
