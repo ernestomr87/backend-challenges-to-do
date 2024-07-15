@@ -85,7 +85,7 @@ To get started with a challenge:
 
 ### 🥇 Senior
 
-| Title                           | Description                                                               | Link to Challenge                                          |
+| Title                           | Description                                                               | Link                                                       |
 |---------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------|
 | Microservices Architecture      | Build an application using microservices architecture                     | [Link](./challenges/senior/microservices-application.md)   |
 | Event-Driven Architecture API   | Develop an event-driven architecture with event store                     | [Link](./challenges/senior/event-driven-api.md)            |
