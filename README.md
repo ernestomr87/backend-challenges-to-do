@@ -33,11 +33,11 @@ To get started with a challenge:
 | Calculator API                | Build an API that performs basic arithmetic operations   | [Link](./challenges/beginner/calculator-api.md)          |
 | Echo API                      | Create an API that echoes back the data sent in a POST   | [Link](./challenges/beginner/echo-api.md)                |
 | Random Number Generator       | Build an API that returns a random number                | [Link](./challenges/beginner/random-number-generator.md) |
-| Simple To-Do List API         | Create an API to manage a simple to-do list              | [Link](./challenges/beginner/todo-list-api.md)    |
 | Temperature Converter         | Build an API that converts temperatures                  | [Link](./challenges/beginner/temperature-converter.md)   |
 | Palindrome Checker            | Create an API that checks if a string is a palindrome    | [Link](./challenges/beginner/palindrome-checker.md)      |
 | Simple Contact Form API       | Implement an API to handle a contact form submission     | [Link](./challenges/beginner/contact-form-api.md)        |
 | Basic Weather API             | Create an API that returns weather information           | [Link](./challenges/beginner/basic-weather-api.md)       |
+| Simple To-Do List API         | Create an API to manage a simple to-do list              | [Link](./challenges/beginner/todo-list-api.md)    |
 | User Registration and Login   | Implement basic user registration and login              | [Link](./challenges/beginner/user-registration-login.md) |
 
 ### 🥉 Junior
@@ -49,7 +49,7 @@ To get started with a challenge:
 | Basic E-commerce API          | Create an API to manage products, orders, and customers  | [Link](./challenges/junior/basic-ecommerce-api.md)       |
 | Task Management API           | Develop an API for managing tasks and projects           | [Link](./challenges/junior/task-management-api.md)       |
 | Event Scheduling API          | Build an API to schedule and manage events               | [Link](./challenges/junior/event-scheduling-api.md)      |
-| Movie Database API            | Create an API to manage a database of movies and reviews | [Link](./challenges/junior/movie-database-api.md)        |
+| Movies API                    | Create an API to manage movies and reviews               | [Link](./challenges/junior/movies-api.md)        |
 | Recipe API                    | Develop an API for managing recipes and ingredients      | [Link](./challenges/junior/recipe-api.md)                |
 | Forum API                     | Build an API for managing forum topics and replies       | [Link](./challenges/junior/forum-api.md)                 |
 | Inventory Management API      | Create an API to manage inventory items and stock levels | [Link](./challenges/junior/inventory-management-api.md)  |
