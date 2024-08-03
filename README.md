@@ -70,36 +70,36 @@ To get started with a challenge:
 
 ### 🥈 Middle
 
-| Title                           | Description                                                               | Link                                                       |
-|---------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------|
-| Advanced E-commerce API         | Build a comprehensive e-commerce API with caching and queuing             | [Link](./challenges/middle/advanced-ecommerce-api.md)      |
-| Microservices - E-commerce      | Develop an e-commerce system using microservices architecture             | [Link](./challenges/middle/microservices-ecommerce-api.md) |
-| Real-time Chat API              | Create a real-time chat API with WebSocket and message queue              | [Link](./challenges/middle/real-time-chat-api.md)          |
-| Subscription Management API     | Build an API to manage user subscriptions and billing                     | [Link](./challenges/middle/subscription-management-api.md) |
-| Content Management System API   | Develop an API to manage content with user roles and CDN integration      | [Link](./challenges/middle/cms-api.md)                     |
-| Payment Gateway Integration     | Integrate a payment gateway with webhook handling                         | [Link](./challenges/middle/payment-gateway-integration.md) |
-| Notification Service            | Create a service to handle notifications via email and push notifications | [Link](./challenges/middle/notification-service-api.md)    |
-| Analytics API                   | Build an API to track user behavior and analytics                         | [Link](./challenges/middle/analytics-api.md)               |
-| Task Scheduling API             | Develop an API to schedule and manage recurring tasks                     | [Link](./challenges/middle/task-scheduling-api.md)         |
-| Distributed Caching System API  | Integrate a distributed caching system like Redis                         | [Link](./challenges/middle/distributed-caching-api.md)     |
-| Message Queues                  | Implement message queues for asynchronous communication                   | [Link](./challenges/middle/message-queues.md)              |
-| Caching                         | Develop a caching mechanism for API performance                           | [Link](./challenges/middle/caching.md)                     |
-| Load Balancer                   | Implement load balancing for traffic distribution                         | [Link](./challenges/middle/load-balancer.md)               |
+| Title                           | Description                                                                | Link                                                        |
+|---------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|
+| Advanced E-commerce API         | Build a comprehensive e-commerce API with caching and queuing              | [Link](./challenges/middle/advanced-ecommerce-api.md)       |
+| Microservices E-commerce        | Develop an e-commerce system using microservices architecture              | [Link](./challenges/middle/microservices-ecommerce-api.md)  |
+| Real-time Chat API              | Create a real-time chat API with WebSocket and message queue               | [Link](./challenges/middle/real-time-chat-api.md)           |
+| Subscription Management API     | Build an API to manage user subscriptions and billing                      | [Link](./challenges/middle/subscription-management-api.md)  |
+| Content Management System API   | Develop an API to manage content with user roles and CDN integration       | [Link](./challenges/middle/cms-api.md)                      |
+| Payment Gateway Integration     | Integrate a payment gateway with webhook handling                          | [Link](./challenges/middle/payment-gateway-integration.md)  |
+| Notification Service            | Create a service to handle notifications via email and push notifications  | [Link](./challenges/middle/notification-service-api.md)     |
+| Analytics API                   | Build an API to track user behavior and analytics                          | [Link](./challenges/middle/analytics-api.md)                |
+| Task Scheduling API             | Develop an API to schedule and manage recurring tasks                      | [Link](./challenges/middle/task-scheduling-api.md)          |
+| Distributed Caching System      | Integrate a distributed caching system like Redis                          | [Link](./challenges/middle/distributed-caching-api.md)      |
+| Message Queues                  | Implement message queues for asynchronous communication                    | [Link](./challenges/middle/message-queues.md)               |
+| Caching                         | Develop a caching mechanism for API performance                            | [Link](./challenges/middle/caching.md)                      |
+| Load Balancer                   | Implement load balancing for traffic distribution                          | [Link](./challenges/middle/load-balancer.md)                |
 
 ### 🥇 Senior
 
-| Title                           | Description                                                               | Link                                                       |
-|---------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------|
-| Microservices Architecture      | Build an application using microservices architecture                     | [Link](./challenges/senior/microservices-application.md)   |
-| Event-Driven Architecture API   | Develop an event-driven architecture with event store                     | [Link](./challenges/senior/event-driven-api.md)            |
-| Serverless Architecture API     | Create a serverless API using AWS Lambda or Azure Functions               | [Link](./challenges/senior/serverless-api.md)              |
-| GraphQL API                     | Build a flexible data retrieval API with GraphQL                          | [Link](./challenges/senior/graphql-api.md)                 |
-| API Gateway and Service Mesh    | Implement an API Gateway and Service Mesh for microservices               | [Link](./challenges/senior/api-gateway-service-mesh.md)    |
-| CQRS and Event Sourcing API     | Develop CQRS and Event Sourcing for a complex domain                      | [Link](./challenges/senior/cqrs-event-sourcing-api.md)     |
-| Distributed Tracing API         | Implement distributed tracing for microservices                           | [Link](./challenges/senior/distributed-tracing-api.md)     |
-| Machine Learning Pipeline API   | Build an ML pipeline for data ingestion, training, and inference          | [Link](./challenges/senior/ml-pipeline-api.md)             |
-| Real-Time Data Processing API   | Develop an API for real-time data processing                              | [Link](./challenges/senior/data-processing-api.md)         |
-| Multi-Tenant Architecture API   | Create a multi-tenant app with tenant isolation and security              | [Link](./challenges/senior/multi-tenant-api.md)            |
+| Title                           | Description                                                                | Link                                                        |
+|---------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|
+| Microservices Architecture      | Build an application using microservices architecture                      | [Link](./challenges/senior/microservices-application.md)    |
+| Event-Driven Architecture API   | Develop an event-driven architecture with event store                      | [Link](./challenges/senior/event-driven-api.md)             |
+| Serverless Architecture API     | Create a serverless API using AWS Lambda or Azure Functions                | [Link](./challenges/senior/serverless-api.md)               |
+| GraphQL API                     | Build a flexible data retrieval API with GraphQL                           | [Link](./challenges/senior/graphql-api.md)                  |
+| API Gateway and Service Mesh    | Implement an API Gateway and Service Mesh for microservices                | [Link](./challenges/senior/api-gateway-service-mesh.md)     |
+| CQRS and Event Sourcing API     | Develop CQRS and Event Sourcing for a complex domain                       | [Link](./challenges/senior/cqrs-event-sourcing-api.md)      |
+| Distributed Tracing API         | Implement distributed tracing for microservices                            | [Link](./challenges/senior/distributed-tracing-api.md)      |
+| Machine Learning Pipeline API   | Build an ML pipeline for data ingestion, training, and inference           | [Link](./challenges/senior/ml-pipeline-api.md)              |
+| Real-Time Data Processing API   | Develop an API for real-time data processing                               | [Link](./challenges/senior/data-processing-api.md)          |
+| Multi-Tenant Architecture API   | Create a multi-tenant app with tenant isolation and security               | [Link](./challenges/senior/multi-tenant-api.md)             |
 
   
 ## 💻 Contributing
