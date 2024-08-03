@@ -27,18 +27,21 @@ To get started with a challenge:
 
 ### 🏅 Beginner
 
-| Title                           | Description                                                                 | Link                                                     |
-|---------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|
-| Hello World API                 | Develop a basic RESTful API that returns "Hello, World!"                    | [Link](./challenges/beginner/hello-world-api.md)         |
-| Calculator API                  | Create an API to perform basic arithmetic operations                        | [Link](./challenges/beginner/calculator-api.md)          |
-| Echo API                        | Build an API that echoes back data sent via POST requests                   | [Link](./challenges/beginner/echo-api.md)                |
-| Random Number Generator         | Develop an API that returns a random number                                 | [Link](./challenges/beginner/random-number-generator.md) |
-| Temperature Converter           | Create an API to convert temperatures between units                         | [Link](./challenges/beginner/temperature-converter.md)   |
-| Palindrome Checker              | Build an API to check if a string is a palindrome                           | [Link](./challenges/beginner/palindrome-checker.md)      |
-| Simple Contact Form API         | Implement an API to handle contact form submissions                         | [Link](./challenges/beginner/contact-form-api.md)        |
-| Basic Weather API               | Create an API that returns weather information                              | [Link](./challenges/beginner/basic-weather-api.md)       |
-| Simple To-Do List API           | Develop an API to manage a simple to-do list                                | [Link](./challenges/beginner/todo-list-api.md)           |
-| User Registration and Login     | Implement basic user registration and login functionality                   | [Link](./challenges/beginner/user-registration-login.md) |
+| Title                           | Description                                                                | Link                                                        |
+|---------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|
+| Hello World API                 | Develop a basic RESTful API that returns "Hello, World!"                   | [Link](./challenges/beginner/hello-world-api.md)            |
+| Echo API                        | Build an API that echoes back data sent via POST requests                  | [Link](./challenges/beginner/echo-api.md)                   |
+| Number Generator Service        | Develop an API that returns a random number                                | [Link](./challenges/beginner/service-number-generator.md)   |
+| Palindrome Checker Service      | Build an API to check if a string is a palindrome                          | [Link](./challenges/beginner/service-palindrome-checker.md) |
+| Time Zone Service               | Create a Service to retrieve time zone information                         | [Link](./challenges/beginner/service-time-zone.md)          |
+| IP Address Tracker Service      | Develop a Service to track and geolocate IP addresses                      | [Link](./challenges/beginner/service-ip-address-tracker.md) |
+| Zip Code Lookup Service         | BuBuild a service to look up location information based on zip codes       | [Link](./challenges/beginner/service-zipcode-lookup.md)     |
+| Calculator API                  | Create an API to perform basic arithmetic operations                       | [Link](./challenges/beginner/api-calculator.md)             |
+| Temperature Converter API       | Create an API to convert temperatures between units                        | [Link](./challenges/beginner/api-temperature-converter.md)  |
+| Currency Converter API          | Build an API to convert currencies between different countries             | [Link](./challenges/beginner/api-currency-converter.md)     |
+| To-Do List API                  | Develop an API to manage a simple to-do list                               | [Link](./challenges/beginner/api-todo-list.md)              |
+| Contact Form API                | Develop an API that handles sending messages from a contact form           | [Link](./challenges/beginner/api-contact-form.md)           |
+| Weather API                     | Create an API that returns weather information                             | [Link](./challenges/beginner/api-weather.md)                |
 
 ### 🥉 Junior
 
