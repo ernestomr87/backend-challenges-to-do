@@ -45,29 +45,38 @@ To get started with a challenge:
 
 ### 🥉 Junior
 
-| Title                           | Description                                                                 | Link                                                     |
-|---------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|
-| Blog API                        | Create an API to manage blog posts and comments                             | [Link](./challenges/junior/blog-api.md)                  |
-| User Profile API                | Build an API for managing user profiles                                     | [Link](./challenges/junior/user-profile-api.md)          |
-| Basic E-commerce API            | Develop an API to manage products, orders, and customers                    | [Link](./challenges/junior/basic-ecommerce-api.md)       |
-| Task Management API             | Create an API for managing tasks and projects                               | [Link](./challenges/junior/task-management-api.md)       |
-| Event Scheduling API            | Develop an API to schedule and manage events                                | [Link](./challenges/junior/event-scheduling-api.md)      |
-| Movies API                      | Create an API to manage movies and reviews                                  | [Link](./challenges/junior/movies-api.md)                |
-| Recipe API                      | Build an API for managing recipes and ingredients                           | [Link](./challenges/junior/recipe-api.md)                |
-| Forum API                       | Develop an API for managing forum topics and replies                        | [Link](./challenges/junior/forum-api.md)                 |
-| Inventory Management API        | Create an API to manage inventory items and stock levels                    | [Link](./challenges/junior/inventory-management-api.md)  |
-| Fitness Tracker API             | Develop an API to track workouts and fitness activities                     | [Link](./challenges/junior/fitness-tracker-api.md)       |
-| Email Service API               | Build an API to send and manage emails                                      | [Link](./challenges/junior/email-service-api.md)         |
-| Notification System API         | Create an API for sending and managing notifications                        | [Link](./challenges/junior/notification-system-api.md)   |
-| Payment Processing API          | Develop an API to handle payments and transactions                          | [Link](./challenges/junior/payment-processing-api.md)    |
-| Weather Notification API        | Create an API that sends weather notifications                              | [Link](./challenges/junior/weather-notification-api.md)  |
-| Chat Application API            | Build an API for a basic real-time chat application                         | [Link](./challenges/junior/chat-application-api.md)      |
-| Authentication Service          | Implement user authentication and password recovery                         | [Link](./challenges/junior/authentication-service.md)    |
-| Cryptography Service            | Develop a service for encrypting and decrypting data                        | [Link](./challenges/junior/cryptography-service.md)      |
-| URL Shortener                   | Create an API for shortening and managing URLs                              | [Link](./challenges/junior/url-shortener.md)             |
-| CI/CD                           | Implement a basic CI/CD pipeline                                            | [Link](./challenges/junior/ci-cd.md)                     |
-| Data Normalization              | Develop a service to normalize data                                         | [Link](./challenges/junior/data-normalization.md)        |
-
+| Title                           | Description                                                                | Link                                                        |
+|---------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|
+| URL Shortener Service           | Create an API for shortening and managing URLs                             | [Link](./challenges/junior/service-url-shortener.md)        |
+| Password Checker Service        | Build an API to check the strength and security of passwords               | [Link](./challenges/junior/service-password-checker.md)     |
+| Password Generator Service      | Develop a service to generate secure passwords                             | [Link](./challenges/junior/service-password-generator.md)   |
+| Email Service                   | Build an API to send and manage emails                                     | [Link](./challenges/junior/service-email.md)                |
+| Cryptography Service            | Develop a service for encrypting and decrypting data                       | [Link](./challenges/junior/service-cryptography.md)         |
+| Notification Service            | Create an API for sending and managing notifications                       | [Link](./challenges/junior/service-notification.md)         |
+| Authentication Service          | Implement user authentication and password recovery                        | [Link](./challenges/junior/service-authentication.md)       |
+| Payment Processing Service      | Develop an API to handle payments and transactions                         | [Link](./challenges/junior/service-payment-processing.md)   |
+| Data Normalization Service      | Develop a service to normalize data                                        | [Link](./challenges/junior/service-data-normalization.md)   |
+| Image Processing Service        | Create an API for processing and transforming images                       | [Link](./challenges/junior/service-image-processing.md)     |
+| File Storage Service            | Build an API to store and manage files                                     | [Link](./challenges/junior/service-file-storage.md)         |
+| Logging Service                 | Create a service for logging and monitoring application activities         | [Link](./challenges/junior/logging-service.md)              |
+| User Profile API                | Build an API for managing user profiles                                    | [Link](./challenges/junior/api-user-profile.md)             |
+| Task Management API             | Create an API for managing tasks and projects                              | [Link](./challenges/junior/api-task-management.md)          |
+| Event Scheduling API            | Develop an API to schedule and manage events                               | [Link](./challenges/junior/api-event-scheduling.md)         |
+| Inventory Management API        | Create an API to manage inventory items and stock levels                   | [Link](./challenges/junior/api-inventory-management.md)     |
+| Fitness Tracker API             | Develop an API to track workouts and fitness activities                    | [Link](./challenges/junior/api-fitness-tracker.md)          |
+| Movies API                      | Create an API to manage movies and reviews                                 | [Link](./challenges/junior/api-movies.md)                   |
+| Recipe API                      | Build an API for managing recipes and ingredients                          | [Link](./challenges/junior/api-recipe.md)                   |
+| Forum API                       | Develop an API for managing forum topics and replies                       | [Link](./challenges/junior/api-forum.md)                    |
+| Blog API                        | Create an API to manage blog posts and comments                            | [Link](./challenges/junior/api-blog.md)                     |
+| E-commerce API                  | Develop an API to manage products, orders, and customers                   | [Link](./challenges/junior/api-ecommerce.md)                |
+| Dockerfile                      | Write a Dockerfile for containerizing an application                       | [Link](./challenges/junior/container-dockerfile.md)                   |
+| Docker Compose                  | Create a Docker Compose file for managing multi-container applications     | [Link](./challenges/junior/container-docker-compose.md)               |
+| CI Build Pipeline               | Create a continuous integration pipeline for building applications         | [Link](./challenges/junior/ci-build-pipeline.md)            |
+| CI Testing Pipeline             | Implement a continuous integration pipeline for testing applications       | [Link](./challenges/junior/ci-testing-pipeline.md)          |
+| CI Build and Testing Pipeline   | Integrate build and testing pipelines for continuous integration           | [Link](./challenges/junior/ci-build-testing-pipeline.md)    |
+| CD Setup Pipeline               | Create a continuous deployment pipeline for setting up applications        | [Link](./challenges/junior/cd-setup-pipeline.md)            |
+| CD Deployment Pipeline          | Implement a continuous deployment pipeline for deploying applications      | [Link](./challenges/junior/cd-deployment-pipeline.md)       |
+  
 ### 🥈 Middle
 
 | Title                           | Description                                                                | Link                                                        |

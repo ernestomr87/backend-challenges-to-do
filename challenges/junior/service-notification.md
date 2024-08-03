@@ -1,8 +1,8 @@
-# Backend Challenge - Notification System API
+# Backend Challenge - Notification Service
 
 ## Introduction
 
-The "Notification System API" challenge is designed to build a RESTful API that allows users to manage and send notifications programmatically.
+The "Notification Service" challenge is designed to build a REST API that allows users to manage and send notifications programmatically.
 
 ### Objectives
 
