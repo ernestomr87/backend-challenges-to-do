@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Simple Contact Form API" challenge is designed to build a RESTful API that handles sending messages from a contact form.
+The "Simple Contact Form API" challenge is designed to build a REST API that handles sending messages from a contact form.
 
 ### Objectives
 
@@ -13,7 +13,7 @@ The "Simple Contact Form API" challenge is designed to build a RESTful API that 
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that receives messages from a contact form and performs actions (e.g., store in database, send email notification).
+1. **Objective**: Develop a REST API that receives messages from a contact form and performs actions (e.g., store in database, send email notification).
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

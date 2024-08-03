@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Payment Processing API" challenge is designed to build a RESTful API that allows users to process payments, handle refunds, and manage subscriptions programmatically.
+The "Payment Processing API" challenge is designed to build a REST API that allows users to process payments, handle refunds, and manage subscriptions programmatically.
 
 ### Objectives
 
@@ -13,7 +13,7 @@ The "Payment Processing API" challenge is designed to build a RESTful API that a
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that provides functionality for payment processing.
+1. **Objective**: Develop a REST API that provides functionality for payment processing.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Hello World API" challenge is designed to introduce beginners to backend development by creating a simple RESTful API that responds with a "Hello, World!" message when accessed via a specific endpoint.
+The "Hello World API" challenge is designed to introduce beginners to backend development by creating a simple REST API that responds with a "Hello, World!" message when accessed via a specific endpoint.
 
 ## Objectives
 
@@ -14,7 +14,7 @@ The "Hello World API" challenge is designed to introduce beginners to backend de
 
 ### Step-by-Step Guide
 
-1. **Objective**: Your task is to develop a RESTful API that, when accessed via a specific endpoint, returns the message "Hello, World!".
+1. **Objective**: Your task is to develop a REST API that, when accessed via a specific endpoint, returns the message "Hello, World!".
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 
@@ -30,7 +30,7 @@ The "Hello World API" challenge is designed to introduce beginners to backend de
 ### Requirements
 
 - Basic knowledge of your chosen programming language.
-- Understanding of RESTful API principles (e.g., HTTP methods, status codes).
+- Understanding of REST API principles (e.g., HTTP methods, status codes).
 
 ## Possible Improvements
 

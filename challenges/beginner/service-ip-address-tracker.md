@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "IP Address Tracker Service" challenge is designed to create a RESTful API that tracks and geolocates IP addresses, providing information about their geographical location.
+The "IP Address Tracker Service" challenge is designed to create a REST API that tracks and geolocates IP addresses, providing information about their geographical location.
 
 ### Objectives
 
@@ -13,7 +13,7 @@ The "IP Address Tracker Service" challenge is designed to create a RESTful API t
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that returns geolocation information (e.g., city, region, country) based on a given IP address.
+1. **Objective**: Develop a REST API that returns geolocation information (e.g., city, region, country) based on a given IP address.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

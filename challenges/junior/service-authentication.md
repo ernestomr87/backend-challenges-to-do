@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Authentication Service" challenge is designed to build a RESTful API that handles user authentication, including registration, login, and password recovery.
+The "Authentication Service" challenge is designed to build a REST API that handles user authentication, including registration, login, and password recovery.
 
 ### Objectives
 
@@ -14,7 +14,7 @@ The "Authentication Service" challenge is designed to build a RESTful API that h
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API for user authentication, including registration, login, and password recovery.
+1. **Objective**: Develop a REST API for user authentication, including registration, login, and password recovery.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

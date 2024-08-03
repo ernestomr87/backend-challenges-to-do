@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Password Checker Service" challenge is designed to create a RESTful API that evaluates the strength and security of passwords, providing feedback on how to improve them.
+The "Password Checker Service" challenge is designed to create a REST API that evaluates the strength and security of passwords, providing feedback on how to improve them.
 
 ### Objectives
 
@@ -13,7 +13,7 @@ The "Password Checker Service" challenge is designed to create a RESTful API tha
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that checks the strength and security of a given password and provides feedback on how to improve it.
+1. **Objective**: Develop a REST API that checks the strength and security of a given password and provides feedback on how to improve it.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

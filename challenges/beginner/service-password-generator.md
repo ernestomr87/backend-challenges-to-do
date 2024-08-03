@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Password Generator Service" challenge is designed to create a RESTful API that generates secure, random passwords based on user-defined criteria.
+The "Password Generator Service" challenge is designed to create a REST API that generates secure, random passwords based on user-defined criteria.
 
 ### Objectives
 
@@ -13,7 +13,7 @@ The "Password Generator Service" challenge is designed to create a RESTful API t
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that generates secure passwords based on specified criteria.
+1. **Objective**: Develop a REST API that generates secure passwords based on specified criteria.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

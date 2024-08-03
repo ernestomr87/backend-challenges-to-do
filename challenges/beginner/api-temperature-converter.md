@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Temperature Converter API" challenge is designed to create a RESTful API that converts temperatures between different units (e.g., Celsius, Fahrenheit, Kelvin).
+The "Temperature Converter API" challenge is designed to create a REST API that converts temperatures between different units (e.g., Celsius, Fahrenheit, Kelvin).
 
 ### Objectives
 
@@ -12,7 +12,7 @@ The "Temperature Converter API" challenge is designed to create a RESTful API th
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that converts temperatures between various units.
+1. **Objective**: Develop a REST API that converts temperatures between various units.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

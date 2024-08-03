@@ -13,7 +13,7 @@ The "Notification Service" challenge is designed to build a REST API that allows
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that provides functionality for managing and sending notifications.
+1. **Objective**: Develop a REST API that provides functionality for managing and sending notifications.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

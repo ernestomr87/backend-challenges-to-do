@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Zip Code Lookup Service" challenge is designed to create a RESTful API that retrieves location information based on zip codes.
+The "Zip Code Lookup Service" challenge is designed to create a REST API that retrieves location information based on zip codes.
 
 ### Objectives
 
@@ -13,7 +13,7 @@ The "Zip Code Lookup Service" challenge is designed to create a RESTful API that
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that returns location information (e.g., city, state, country) based on a given zip code.
+1. **Objective**: Develop a REST API that returns location information (e.g., city, state, country) based on a given zip code.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

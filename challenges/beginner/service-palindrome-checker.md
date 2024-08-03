@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Palindrome Checker API" challenge is designed to build a RESTful API that determines whether a given string is a palindrome.
+The "Palindrome Checker API" challenge is designed to build a REST API that determines whether a given string is a palindrome.
 
 ### Objectives
 
@@ -12,7 +12,7 @@ The "Palindrome Checker API" challenge is designed to build a RESTful API that d
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that checks whether a given string is a palindrome.
+1. **Objective**: Develop a REST API that checks whether a given string is a palindrome.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

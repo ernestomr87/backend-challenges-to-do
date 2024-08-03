@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Echo API" challenge is designed to build a simple RESTful API that echoes back the data sent in a POST request.
+The "Echo API" challenge is designed to build a simple REST API that echoes back the data sent in a POST request.
 
 ### Objectives
 
@@ -12,7 +12,7 @@ The "Echo API" challenge is designed to build a simple RESTful API that echoes b
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that echoes back data sent in a POST request.
+1. **Objective**: Develop a REST API that echoes back data sent in a POST request.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 
@@ -34,6 +34,6 @@ The "Echo API" challenge is designed to build a simple RESTful API that echoes b
 
 ## Conclusion
 
-By completing this challenge, you will gain practical experience in developing a basic RESTful API and learn essential practices for backend development. Explore additional improvements and challenges to further enhance your skills.
+By completing this challenge, you will gain practical experience in developing a basic REST API and learn essential practices for backend development. Explore additional improvements and challenges to further enhance your skills.
 
 Happy coding!

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Calculator API" challenge is designed to build a simple RESTful API that performs basic arithmetic operations (addition, subtraction, multiplication, division) based on user input.
+The "Calculator API" challenge is designed to build a simple REST API that performs basic arithmetic operations (addition, subtraction, multiplication, division) based on user input.
 
 ## Objectives
 
@@ -15,7 +15,7 @@ The "Calculator API" challenge is designed to build a simple RESTful API that pe
 
 ### Step-by-Step Guide
 
-1. **Objective**: Your task is to develop a RESTful API that provides endpoints for basic arithmetic operations.
+1. **Objective**: Your task is to develop a REST API that provides endpoints for basic arithmetic operations.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

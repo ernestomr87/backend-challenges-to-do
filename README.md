@@ -29,10 +29,12 @@ To get started with a challenge:
 
 | Title                           | Description                                                                | Link                                                        |
 |---------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|
-| Hello World API                 | Develop a basic RESTful API that returns "Hello, World!"                   | [Link](./challenges/beginner/hello-world-api.md)            |
+| Hello World API                 | Develop a basic REST API that returns "Hello, World!"                      | [Link](./challenges/beginner/hello-world-api.md)            |
 | Echo API                        | Build an API that echoes back data sent via POST requests                  | [Link](./challenges/beginner/echo-api.md)                   |
 | Number Generator Service        | Develop an API that returns a random number                                | [Link](./challenges/beginner/service-number-generator.md)   |
 | Palindrome Checker Service      | Build an API to check if a string is a palindrome                          | [Link](./challenges/beginner/service-palindrome-checker.md) |
+| Password Checker Service        | Build an API to check the strength and security of passwords               | [Link](./challenges/beginner/service-password-checker.md)   |
+| Password Generator Service      | Develop a service to generate secure passwords                             | [Link](./challenges/beginner/service-password-generator.md) |
 | Time Zone Service               | Create a Service to retrieve time zone information                         | [Link](./challenges/beginner/service-time-zone.md)          |
 | IP Address Tracker Service      | Develop a Service to track and geolocate IP addresses                      | [Link](./challenges/beginner/service-ip-address-tracker.md) |
 | Zip Code Lookup Service         | BuBuild a service to look up location information based on zip codes       | [Link](./challenges/beginner/service-zipcode-lookup.md)     |
@@ -48,8 +50,6 @@ To get started with a challenge:
 | Title                           | Description                                                                | Link                                                        |
 |---------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|
 | URL Shortener Service           | Create an API for shortening and managing URLs                             | [Link](./challenges/junior/service-url-shortener.md)        |
-| Password Checker Service        | Build an API to check the strength and security of passwords               | [Link](./challenges/junior/service-password-checker.md)     |
-| Password Generator Service      | Develop a service to generate secure passwords                             | [Link](./challenges/junior/service-password-generator.md)   |
 | Email Service                   | Build an API to send and manage emails                                     | [Link](./challenges/junior/service-email.md)                |
 | Cryptography Service            | Develop a service for encrypting and decrypting data                       | [Link](./challenges/junior/service-cryptography.md)         |
 | Notification Service            | Create an API for sending and managing notifications                       | [Link](./challenges/junior/service-notification.md)         |

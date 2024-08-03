@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "User Profile API" challenge is designed to build a RESTful API that allows basic management of user profiles, including creation, retrieval, updating, and deletion.
+The "User Profile API" challenge is designed to build a REST API that allows basic management of user profiles, including creation, retrieval, updating, and deletion.
 
 ### Objectives
 
@@ -13,7 +13,7 @@ The "User Profile API" challenge is designed to build a RESTful API that allows 
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that provides functionality for managing user profiles.
+1. **Objective**: Develop a REST API that provides functionality for managing user profiles.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

@@ -13,7 +13,7 @@ The "Currency Converter API" challenge is designed to create a REST API that con
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that converts currencies from one to another using real-time or fixed exchange rates.
+1. **Objective**: Develop a REST API that converts currencies from one to another using real-time or fixed exchange rates.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 

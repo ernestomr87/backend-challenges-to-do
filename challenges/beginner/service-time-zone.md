@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Time Zone Service" challenge is designed to create a RESTful API that retrieves time zone information based on geographical data or location identifiers.
+The "Time Zone Service" challenge is designed to create a REST API that retrieves time zone information based on geographical data or location identifiers.
 
 ### Objectives
 
@@ -13,7 +13,7 @@ The "Time Zone Service" challenge is designed to create a RESTful API that retri
 
 ### Instructions
 
-1. **Objective**: Develop a RESTful API that returns time zone information (e.g., time zone name, UTC offset, current local time) based on a given location.
+1. **Objective**: Develop a REST API that returns time zone information (e.g., time zone name, UTC offset, current local time) based on a given location.
 
 2. **Environment Setup**: Choose your preferred programming language (e.g., JavaScript, Python, Java, C#) and set up the necessary environment.
 
