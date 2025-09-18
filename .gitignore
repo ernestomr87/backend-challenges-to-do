@@ -22,3 +22,29 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Node.js dependencies (at any level)
+**/node_modules/
+
+# Test coverage reports (at any level)
+**/coverage/
+
+# Environment variables (at any level)
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# Lock files (at any level)
+**/*.lock
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml
+
+
+
+
+challenges/.DS_Store
+challenges/beginner/.DS_Store
+challenges/beginner/Solutions/.DS_Store
