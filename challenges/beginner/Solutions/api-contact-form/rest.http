@@ -1,0 +1,10 @@
+
+POST http://localhost:3000/contact
+Content-Type: application/json
+
+{
+  "name": "Ernesto",
+  "email": "ernesto@example.com",
+  "message": "Hello, I would like to contact you!"
+}
+
